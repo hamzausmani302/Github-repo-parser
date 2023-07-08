@@ -23,7 +23,6 @@ Github scraper uses the following technologies
 
 ## Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
 
 Install the dependencies
 
@@ -56,5 +55,10 @@ python main.py --url https://example.com --peopleType [watchers/stargazers] --ou
 python main.py  --url https://github.com/dotnet/Scaffolding --peopleType stargazers
 ```
 
+
+Sample result present in content/results.csv file  (nick , user name , number of followers , account url)
+
+More information can be get but it servers initial purpose
+Feel free to customzie it for your need
 
 
